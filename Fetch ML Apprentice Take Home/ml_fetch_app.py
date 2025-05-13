@@ -23,7 +23,7 @@ import torch
 import torch.nn as nn
 from tqdm import tqdm
 
-!nvidia-smi
+#!nvidia-smi
 
 from google.colab import drive
 drive.mount('/content/drive')
